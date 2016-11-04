@@ -17,6 +17,7 @@ namespace gitExercise1
             MyClass.hello();
 
             Console.WriteLine("Another message after hello() execution!");
+            Console.WriteLine("WriteLine after cloning!");
         }
     }
 }
