@@ -15,6 +15,8 @@ namespace gitExercise1
             Console.WriteLine("Another one!");
             Console.WriteLine("And another one!!!");
             MyClass.hello();
+
+            Console.WriteLine("Another message after hello() execution!");
         }
     }
 }
